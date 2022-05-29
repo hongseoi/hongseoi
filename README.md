@@ -1,5 +1,8 @@
 ### Slow and steady wins the race 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongseoi&show_icons=true&theme=radical)
+
 <!--
 I'm interested in...
 mobile
@@ -20,9 +23,6 @@ pyscript
 typescript
 
 --!>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongseoi&show_icons=true&theme=radical)
 
 <!--
 **hongseoi/hongseoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

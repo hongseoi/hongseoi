@@ -1,5 +1,27 @@
 ### Slow and steady wins the race 👋
 
+<!--
+I'm interested in...
+mobile
+web
+data analysis
+
+skills
+java
+python
+javascript
+html5
+mysql
+figma
+
+i want to learn...
+kotlin
+pyscript
+typescript
+
+--!>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongseoi&show_icons=true&theme=radical)
 
 <!--

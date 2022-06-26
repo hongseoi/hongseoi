@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongseoi&show_icons=true&theme=radical)
 
 <br>
-- 🌱 I’m currently learning ...data analysis
+- 🌱 I’m currently learning ...data analysis in Young Data Campus
 
 <!--
 I'm interested in...

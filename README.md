@@ -4,16 +4,27 @@
 
 <br>
 
+**SKILLS**
+<ul>
+<li> Python
+<li> Java
+<li> HTML, CSS
+<li> JavaScript
+</ul>
+
+**I'm interested in...**
+<ul>
+<li> mobile
+<li> web
+<li> data analysis
+</ul>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongseoi&show_icons=true&theme=radical)
 
 <br>
 - 🌱 I’m currently learning ...data analysis in Young Data Campus
 
 <!--
-I'm interested in...
-mobile
-web
-data analysis
 
 skills
 java

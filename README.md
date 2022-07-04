@@ -10,6 +10,7 @@
 <li> Java
 <li> HTML, CSS
 <li> JavaScript
+<li> MySQL
 </ul>
 
 **I'm interested in...**

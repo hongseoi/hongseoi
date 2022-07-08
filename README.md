@@ -33,6 +33,9 @@ python
 javascript
 html5
 mysql
+
+<li> Spirng
+<li> Kotlin
 figma
 
 i want to learn...

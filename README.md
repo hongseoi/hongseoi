@@ -13,6 +13,14 @@
 <li> MySQL
 </ul>
 
+**TOOLS**
+<ul>
+  <li> IntelliJ
+  <li> Atom
+  <li> VisualStudioCode
+  <li> Pycharm
+  <li>
+</ul>
 **I'm interested in...**
 <ul>
 <li> mobile
@@ -27,6 +35,8 @@
 
 <!--
 
+<li> Figma
+  <li> React Native
 skills
 java
 python

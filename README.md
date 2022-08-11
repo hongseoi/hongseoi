@@ -10,7 +10,7 @@
 <li> Java
 <li> HTML, CSS
 <li> JavaScript
-<li> MySQL
+<li> SQL
 </ul>
 
 **TOOLS**
@@ -19,7 +19,7 @@
   <li> Atom
   <li> VisualStudioCode
   <li> Pycharm
-  <li>
+  <li> MySQL
 </ul>
 **I'm interested in...**
 <ul>

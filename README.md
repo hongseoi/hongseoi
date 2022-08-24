@@ -11,6 +11,7 @@
 <li> HTML, CSS
 <li> JavaScript
 <li> SQL
+<li> PHP
 </ul>
 
 **TOOLS**
@@ -20,6 +21,7 @@
   <li> VisualStudioCode
   <li> Pycharm
   <li> MySQL
+  <li> FireBase
 </ul>
 **I'm interested in...**
 <ul>

@@ -45,6 +45,10 @@ python
 javascript
 html5
 mysql
+photoshop
+android studio
+adobe illustrator
+
 
 <li> Spirng
 <li> Kotlin

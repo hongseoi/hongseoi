@@ -23,12 +23,6 @@
 
 <br>
 
-<!--
-**Awards**
-|수상명|수상일자|주최기관|
-|융합캡스톤디자인 우수상|23.12.19.|동국대학교|
-||||
---!>
 
 **I'm interested in...**
 <img src="https://img.shields.io/badge/Mobile-ab373c?style=flat-square&logo=Python&logoColor=white"/> 
@@ -44,6 +38,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ghdcosml)](https://solved.ac/ghdcosml)
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> 
+**Awards**
+|수상명|수상일자|주최기관|
+|융합캡스톤디자인 우수상|23.12.19.|동국대학교|
+||||
 --!>
 
 

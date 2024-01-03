@@ -23,11 +23,12 @@
 
 <br>
 
+<!--
 **Awards**
 |수상명|수상일자|주최기관|
 |융합캡스톤디자인 우수상|23.12.19.|동국대학교|
 ||||
-
+--!>
 
 **I'm interested in...**
 <img src="https://img.shields.io/badge/Mobile-ab373c?style=flat-square&logo=Python&logoColor=white"/> 

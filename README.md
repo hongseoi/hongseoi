@@ -2,7 +2,7 @@
 
 ### Hi👋 I'm Hong Seo I. <br>
 I'm conducting research at the [Machine Learning Lab](https://www.ml.dongguk.edu/home) at Dongguk University. <br>
-I'm intereste in **Natural Language Processing and Sound Data Processing**<br>
+I'm intereste in **LLM and Multimodality**<br>
 I want to grow into a professinal researcher.
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hongchaenui@gmail.com) 
